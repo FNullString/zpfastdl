@@ -1,0 +1,9 @@
+6
+weapon			640		sc_ast/ak12/ak12	0	0	170	45
+weapon_s		640		sc_ast/ak12/ak12	0	46	170	45
+ammo			640		sc_ast/640hud7		72	72	24	24
+zoom			640		sc_ast/ak12/ak12zoom	0	0	256	256
+crosshair		640		crosshairs	0	48	24	24
+autoaim			640		crosshairs	48	72	24	24
+
+
