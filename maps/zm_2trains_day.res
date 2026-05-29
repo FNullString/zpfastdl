@@ -1,0 +1,9 @@
+gfx/env/zm_2trains_dxup.tga
+gfx/env/zm_2trains_dxdn.tga
+gfx/env/zm_2trains_dxlf.tga
+gfx/env/zm_2trains_dxrt.tga
+gfx/env/zm_2trains_dxft.tga
+gfx/env/zm_2trains_dxbk.tga
+sound/deadstrike/maps/vel/train_gk.wav
+sound/deadstrike/maps/vel/train.wav
+sprites/deadstrike/maps/light.spr

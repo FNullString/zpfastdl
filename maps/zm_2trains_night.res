@@ -1,0 +1,14 @@
+gfx/env/pollutionup.tga
+gfx/env/pollutiondn.tga
+gfx/env/pollutionlf.tga
+gfx/env/pollutionrt.tga
+gfx/env/pollutionft.tga
+gfx/env/pollutionbk.tga
+sound/deadstrike/maps/vel/train_gk.wav
+sound/deadstrike/maps/vel/train.wav
+sprites/deadstrike/maps/light.spr
+sprites/glow03.spr
+models/deadstrike/maps/light/glowstick02.mdl
+models/deadstrike/maps/light/glowstick03.mdl
+models/deadstrike/maps/light/glowstick04.mdl
+models/deadstrike/maps/light/glowstick01.mdl
