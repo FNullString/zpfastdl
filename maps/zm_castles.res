@@ -1,0 +1,14 @@
+de_piranesi.wad
+gfx/env/DrkGbk.tga
+gfx/env/DrkGdn.tga
+gfx/env/DrkGft.tga
+gfx/env/DrkGlf.tga
+gfx/env/DrkGrt.tga
+gfx/env/DrkGup.tga
+models/bush.mdl
+models/pi_fern.mdl
+models/pi_shrub.mdl
+models/pi_stlamp.mdl
+models/pi_tree2.mdl
+models/pred_plant.mdl
+sound/storm/thunder-theme.wav

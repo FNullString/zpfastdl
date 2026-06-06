@@ -1,0 +1,13 @@
+halflife.wad
+chateau.wad
+de_piranesi.wad
+gfx/env/scudup.tga
+gfx/env/scuddn.tga
+gfx/env/scudlf.tga
+gfx/env/scudrt.tga
+gfx/env/scudft.tga
+gfx/env/scudbk.tga
+models/ruins/kust_ruins.mdl
+models/ruins/trava_ruins1.mdl
+models/ruins/derevo_ruins.mdl
+sprites/flare1.spr
