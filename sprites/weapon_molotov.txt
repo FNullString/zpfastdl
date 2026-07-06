@@ -1,0 +1,4 @@
+6
+weapon			640		anm14grenade		0	0	170	45
+weapon_s		640		anm14grenade		0	46	170	45
+ammo				640		640hud7		48	84	24	24
